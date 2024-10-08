@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @trustonyekwere
-- 👀 I’m interested in web development and Robotics.
-- 🌱 I’m currently learning all things front-end dev.
-- 💞️ I’m looking to collaborate on creative and responsive websites for people.
-- 📫 How to reach me: WhatsApp: +234 810 821 2511    Email: trustonyekwere151@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: looking forward to working with you.
+## Trust Onyekwere <img src="https://cdn.simpleicons.org/zcool/fff" style="width:24; height:24;">
 
-<!---
-trustonyekwere/trustonyekwere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Creativity lurks within!
+---
+Hey there, i'm Trust Onyekwere.
+I'm a web developer with a knack for creating responsive, interactive and visually apealing websites.
+I also enjoy hobbies such as Gaming and listening to good music. If you'd like to know more about me, check out my [portfolio.](https://trust-onyekwere.vercel.app/)
+
+### Skills
+* Adaptability to new techniques.
+* Ability to work under pressure.
+* Proficient in Graphics Design.
+* Proficient in Microsoft Packages.
+* Adequate time management skills.
+
+### Programming Languages
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
