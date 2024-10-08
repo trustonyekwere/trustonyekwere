@@ -1,4 +1,4 @@
-## Trust Onyekwere <img src="https://cdn.simpleicons.org/zcool/fff" style="width:24; height:24;">
+# Trust Onyekwere <img src="https://cdn.simpleicons.org/zcool/fff" width=3%>
 
 > Creativity lurks within!
 ---
