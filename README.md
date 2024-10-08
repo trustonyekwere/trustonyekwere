@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and Robotics.
 - 🌱 I’m currently learning all things front-end dev.
 - 💞️ I’m looking to collaborate on creative and responsive websites for people.
-- 📫 How to reach me: WhatsApp: +234 810 821 2511    Email: trustonyekwere151@gmail.com
+- 📫 How to reach me: Email: trustonyekwere151@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: looking forward to working with you.
 
