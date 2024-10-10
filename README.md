@@ -3,7 +3,7 @@
 > Creativity lurks within!
 
 Hey there, i'm Trust Onyekwere.
-I'm a web developer with a knack for creating responsive, interactive and visually apealing websites.
+I'm a web developer from Nigeria with a passion for creating responsive, interactive and visually apealing websites.
 I also enjoy hobbies such as Gaming and listening to good music. If you'd like to know more about me, check out my [portfolio.](https://trust-onyekwere.vercel.app/)
 
 ### Skills
