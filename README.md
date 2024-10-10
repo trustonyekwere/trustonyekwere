@@ -43,3 +43,16 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 [<img src="https://cdn.simpleicons.org/Telegram/5865F2" width=4%>](https://t.me/nova_artz) 
 [<img src="https://cdn.simpleicons.org/Spotify/1DB954" width=4%>](https://open.spotify.com/user/314y275bbt36zponc7cfczww7lnm?si=c5h_MnDrTyW_g5kCFWQfFg) 
 
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=trustonyekwere&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00ffff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=trustonyekwere&layout=compact&count_private=true&theme=blue-green&title_color=00ffff)](#)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=trustonyekwere&theme=neon&border_radius=2&exclude_days=Sun)](https://git.io/streak-stats)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
