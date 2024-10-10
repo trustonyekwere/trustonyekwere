@@ -1,4 +1,4 @@
-# Trust Onyekwere <img src="https://cdn.simpleicons.org/zcool/fff" width=3%>
+# Trust Onyekwere <img src="https://cdn.simpleicons.org/zcool/00ffff" width=3%>
 
 > Creativity lurks within!
 
@@ -34,8 +34,8 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 ![VScode](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MYsql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ---
-
-#### Contact me on:
+6.0
+#### Connect with me:
 [<img src="https://cdn.simpleicons.org/TikTok/fff" width=4%>](https://www.tiktok.com/@nova_arts.00?_t=8qQYknuL4Vy&_r=1) 
 [<img src="https://cdn.simpleicons.org/Instagram/E4405F" width=4%>](https://www.instagram.com/nova.artz.00/profilecard/?igsh=djBnODh3ZHVlYWNr) 
 [<img src="https://cdn.simpleicons.org/Facebook/0866FF" width=4%>](https://web.facebook.com/nova.artz.00) 
@@ -53,6 +53,6 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=trustonyekwere&theme=neon&border_radius=2&exclude_days=Sun)](https://git.io/streak-stats)
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="left">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ffff&text=&section=footer"/>
 </p>
