@@ -34,7 +34,7 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 ![VScode](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MYsql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ---
-6.0
+
 #### Connect with me:
 [<img src="https://cdn.simpleicons.org/TikTok/fff" width=4%>](https://www.tiktok.com/@nova_arts.00?_t=8qQYknuL4Vy&_r=1) 
 [<img src="https://cdn.simpleicons.org/Instagram/E4405F" width=4%>](https://www.instagram.com/nova.artz.00/profilecard/?igsh=djBnODh3ZHVlYWNr) 
