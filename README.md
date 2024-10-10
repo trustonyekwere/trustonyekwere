@@ -54,5 +54,5 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 [![GitHub Streak](https://streak-stats.demolab.com?user=trustonyekwere&theme=neon&border_radius=2&exclude_days=Sun)](https://git.io/streak-stats)
 
 <p align="left">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ffff&text=&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ffff&text=&section=footer"/>
 </p>
