@@ -1,8 +1,13 @@
-# Trust Onyekwere <img src="https://cdn.simpleicons.org/zcool/00ffff" width=3%>
+<p align="left">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ffff&text=&section=header"/>
+</p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Trust+Onyekwere!;" />
+</h1>
 
 > Creativity lurks within!
 
-Hey there, i'm Trust Onyekwere.
 I'm a web developer from Nigeria with a passion for creating responsive, interactive and visually apealing websites.
 I also enjoy hobbies such as Gaming and listening to good music. If you'd like to know more about me, check out my [portfolio.](https://trust-onyekwere.vercel.app/)
 
@@ -51,6 +56,13 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=trustonyekwere&layout=compact&count_private=true&theme=blue-green&title_color=00ffff)](#)
 
+
+<h3 align="left">Dream Workspace</h3>
+    <p align="left" >
+        <img  src = "https://i.imgur.com/qGoqmSO.gif" width = 100%>
+    </p>
+
 <p align="left">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ffff&text=&section=footer"/>
 </p>
+
