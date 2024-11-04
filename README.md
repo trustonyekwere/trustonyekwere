@@ -14,6 +14,7 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 ### Skills
 * Adaptability to new techniques.
 * Ability to work under pressure.
+* Proficient in creating responsive web pages.
 * Proficient in Graphics Design.
 * Proficient in Microsoft Packages.
 * Adequate time management skills.
