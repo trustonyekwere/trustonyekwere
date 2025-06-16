@@ -53,7 +53,7 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![Tee's github stats](https://bad-apple-github-readme.vercel.app/api?username=trustonyekwere&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00ffff)](#)
+ [![Tee's github stats](https://bad-apple-github-readme.vercel.app/api?username=trustonyekwere&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=1BD498)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=trustonyekwere&layout=compact&count_private=true&theme=blue-green&title_color=00ffff)](#)
 
@@ -64,6 +64,6 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
     </p>
 
 <p align="left">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ffff&text=&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1BD498&text=&section=footer"/>
 </p>
 
