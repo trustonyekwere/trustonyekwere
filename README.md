@@ -8,7 +8,7 @@
 
 > Creativity lurks within!
 
-I'm a web developer from Nigeria with a passion for creating responsive, interactive and visually apealing websites.
+I am a software developer with a passion for creating responsive, interactive and visually apealing websites and web apps.
 I also enjoy hobbies such as Gaming and listening to good music. If you'd like to know more about me, check out my [portfolio.](https://trust-onyekwere.vercel.app/)
 
 ### Skills
