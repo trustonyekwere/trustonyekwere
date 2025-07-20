@@ -3,7 +3,7 @@
 </p>
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=righteous&size=50&pause=1000&color=1F84E2&width=700&height=100&lines=Hi+There+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=500&width=1000&height=110&lines=Hi+There+%F0%9F%91%8B;I'm+Trust+Onyekwere" />
 </h1>
 
 > Creativity lurks within!
