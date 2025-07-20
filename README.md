@@ -1,9 +1,9 @@
 <p align="left">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1BD498&text=&section=header"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1F84E2&text=&section=header"/>
 </p>
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=righteous&size=50&pause=1000&color=1BD498&width=700&height=100&lines=Hi+There+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=righteous&size=50&pause=1000&color=1F84E2&width=700&height=100&lines=Hi+There+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 > Creativity lurks within!
@@ -53,9 +53,9 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![Tee's github stats](https://bad-apple-github-readme.vercel.app/api?username=trustonyekwere&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=1BD498)](#)
+ [![Tee's github stats](https://bad-apple-github-readme.vercel.app/api?username=trustonyekwere&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=1F84E2)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=trustonyekwere&layout=compact&count_private=true&theme=blue-green&title_color=00ffff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=trustonyekwere&layout=compact&count_private=true&theme=blue-green&title_color=1F84E2)](#)
 
 
 <h3 align="left">Dream Workspace</h3>
@@ -64,6 +64,6 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
     </p>
 
 <p align="left">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1BD498&text=&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1F84E2&text=&section=footer"/>
 </p>
 
