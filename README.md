@@ -19,7 +19,7 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 * Proficient in Microsoft Packages.
 * Adequate time management skills.
 
-### Programming Languages and software
+### Programming Languages and Software
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
