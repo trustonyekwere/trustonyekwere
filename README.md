@@ -19,7 +19,7 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 * Proficient in Microsoft Packages.
 * Adequate time management skills.
 
-### Programming Languages
+### Programming Languages and software
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -53,7 +53,7 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![Tee's github stats](https://bad-apple-github-readme.vercel.app/api?username=trustonyekwere&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=1F84E2)](#)
+ [![Tee's github stats](https://github-readme-stats.vercel.app/api?username=trustonyekwere)](https://github.com/trustonyekwere/github-readme-stats)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=trustonyekwere&layout=compact&count_private=true&theme=blue-green&title_color=1F84E2)](#)
 
