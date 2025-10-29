@@ -38,7 +38,7 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MYsql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ---
-![VS Code](https://img.shields.io/badge/-VSCode-2C2B32?style=flat-square&logo=codecrafters&logoColor=24ABF2)
+![VSCode](https://img.shields.io/badge/-VS_Code-2C2B32?style=flat-square&logo=codecrafters&logoColor=24ABF2)
 ![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=flat-square&logo=Scratch&logoColor=white)
 ---
 
