@@ -29,6 +29,7 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 ![Bootstrap;](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
 ![React](https://img.shields.io/badge/-React-292929?style=flat-square&logo=React&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/-Tailwind-292929?style=flat-square&logo=Tailwindcss&logoColor=61DAFB)
 ---
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
