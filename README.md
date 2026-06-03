@@ -44,11 +44,10 @@ I also enjoy hobbies such as Gaming and listening to good music. If you'd like t
 ---
 
 #### Connect with me:
-[<img src="https://cdn.simpleicons.org/TikTok/fff" width=40px>](https://www.tiktok.com/@nova_arts.00?_t=8qQYknuL4Vy&_r=1) 
-[<img src="https://cdn.simpleicons.org/Instagram/E4405F" width=40px>](https://www.instagram.com/nova.artz.00/profilecard/?igsh=djBnODh3ZHVlYWNr) 
-[<img src="https://cdn.simpleicons.org/Facebook/0866FF" width=40px>](https://web.facebook.com/nova.artz.00) 
-[<img src="https://cdn.simpleicons.org/X/fff" width=40px>](https://x.com/NOVAN00BIE?t=oebXSS3RjywdU2s1y3LQlQ&s=09) 
-[<img src="https://cdn.simpleicons.org/Telegram/5865F2" width=40px>](https://t.me/nova_artz) 
+[<img src="https://cdn.simpleicons.org/TikTok/fff" width=40px>](https://www.tiktok.com/@teeistoothless?_t=8qQYknuL4Vy&_r=1) 
+[<img src="https://cdn.simpleicons.org/Instagram/E4405F" width=40px>](https://www.instagram.com/trustonyekwere/profilecard/?igsh=djBnODh3ZHVlYWNr) 
+[<img src="https://cdn.simpleicons.org/Facebook/0866FF" width=40px>](https://web.facebook.com/trustonyekwereofficial/) 
+[<img src="https://cdn.simpleicons.org/X/fff" width=40px>](https://x.com/trust_onyekwere) 
 [<img src="https://cdn.simpleicons.org/Spotify/1DB954" width=40px>](https://open.spotify.com/user/314y275bbt36zponc7cfczww7lnm?si=c5h_MnDrTyW_g5kCFWQfFg) 
 
 
